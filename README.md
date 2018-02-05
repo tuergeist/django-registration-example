@@ -40,4 +40,4 @@ Visit http://127.0.0.1:8888/accounts/register/ to register a new user.
 
 ## How it looks like
 
-![Registration Page](https://github.com/tuergeist/django-registration-example/docs/register-tac.png)
+![Registration Page](https://raw.githubusercontent.com/tuergeist/django-registration-example/master/docs/register-tac.png)
