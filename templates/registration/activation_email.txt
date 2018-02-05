@@ -1,0 +1,11 @@
+Hi {{ user.first_name }} {{ user.last_name }},
+
+please confirm your email to activate your account at {{ site }}.
+
+Click on the following link or copy and paste it into your browser:
+
+{{ scheme }}://{{ site }}/accounts/activate/{{ activation_key }}/
+
+Regards,
+ Your team
+
